@@ -1,4 +1,6 @@
-# fejo.dk – Wir lieben Dänemark
+# Wir lieben Dänemark
+
+![](/images/fejo-team.jpg)
 
 Fejo.dk ist ein Ferienhausportal, spezialisiert auf die Vermittlung dänischer Ferienhäuser an deutsche Urlauber. Gegründet wurde das Unternehmen 1993 auf einer kleinen, dänischen Insel. Der rasche Erfolg und die große Nachfrage führten 2008 zu einem Umzug nach Deutschland, wo ein dänemarkbegeistertes Team mittlerweile von Düsseldorf und Hamburg aus die Kunden betreut. Mehr als 200.000 zufriedene Urlauber haben ihr Traumferienhaus in den vergangenen Jahren über fejo.dk gefunden, Tendenz steigend.
 
